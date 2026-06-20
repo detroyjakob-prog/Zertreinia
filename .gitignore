@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Kilo Code
+.kilo/plans/*.md
+
 # Object files
 *.o
 *.ko
